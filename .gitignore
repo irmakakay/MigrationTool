@@ -1,0 +1,12 @@
+# Ignore everything by default
+
+# Ignore reports and backups
+Reports/
+*.backup
+*.zip
+
+# Ignore project folders
+MockSolution/
+**/bin/
+**/obj/
+
