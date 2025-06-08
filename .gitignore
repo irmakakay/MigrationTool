@@ -1,5 +1,7 @@
 # Ignore everything by default
 
+.DS_Store
+
 # Ignore reports and backups
 Reports/
 *.backup
